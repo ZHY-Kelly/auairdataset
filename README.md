@@ -1,8 +1,16 @@
+
 # AU-AIR Dataset API
+
+## News
+**15.09.2020**
+- We have updated the annotation file to improve annotations. The new link can be found in "Download" section below.
+- We have also released a json file for [VGG Image Annotator](http://www.robots.ox.ac.uk/~vgg/software/via/) to edit annotations. Feel free to customize annotations for your research. You can download AU-AIR VIA annotations [here](https://drive.google.com/file/d/1OGAbPMddQKgZ99VzRO91__d9SfnkclHK/view?usp=sharing).
+
+
 ## Dataset
 The AU-AIR is a multi-modal aerial dataset captured by a UAV. Having visual data, object annotations, and flight data (time, GPS, altitude, IMU sensor data, velocities), AU-AIR meets vision and robotics for UAVs.
 
-https://bozcani.github.io/AU-AIR-dataset.html
+https://bozcani.github.io/auairdataset
 
 ![alt text](https://raw.githubusercontent.com/bozcani/auairdataset/master/intro.jpg) 
 
@@ -18,7 +26,7 @@ Please download both the AU-AIR images and annotations to run the demo and use t
 
 Images: https://drive.google.com/open?id=1pJ3xfKtHiTdysX5G3dxqKTdGESOBYCxJ (2.2 GB)
 
-Annotations: https://drive.google.com/open?id=1boGF0L6olGe_Nu7rd1R8N7YmQErCb0xA (3.9 MB)
+Annotations **(V.1.1)**: https://drive.google.com/file/d/1GyoBK-NalDFfAtRt9LO6FBujbObyaZLv/view?usp=sharing (55 MB)
 
 ## Dependencies
 You will need common dependencies like `numpy` and `opencv`.
@@ -33,4 +41,4 @@ To install the package from source, simply clone or download the repository to y
 
 ## References
 
-[1] I. Bozcan and E. Kayacan, "AU-AIR: A Multi-modal Unmanned Aerial Vehicle Dataset for Low Altitude Traffic Surveillance", submitted to IEEE International Conference on Robotics and Automation 2020.
+[1] I. Bozcan and E. Kayacan, "AU-AIR: A Multi-modal Unmanned Aerial Vehicle Dataset for Low Altitude Traffic Surveillance", IEEE International Conference on Robotics and Automation (ICRA) 2020.
