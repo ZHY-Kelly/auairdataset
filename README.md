@@ -48,6 +48,6 @@ To install the package from source, simply clone or download the repository to y
 
 ## References
 
-[1] I. Bozcan and E. Kayacan, "AU-AIR: A Multi-modal Unmanned Aerial Vehicle Dataset for Low Altitude Traffic Surveillance", IEEE International Conference on Robotics and Automation (ICRA) 2020.
+I. Bozcan and E. Kayacan, "AU-AIR: A Multi-modal Unmanned Aerial Vehicle Dataset for Low Altitude Traffic Surveillance", IEEE International Conference on Robotics and Automation (ICRA) 2020.
 
-[2] Vujasinović, Stéphane, et al. "Integration of 3D Knowledge for On-Board UAV Visual Tracking." _arXiv preprint arXiv:2008.02834_ (2020).
+
