@@ -2,6 +2,13 @@
 # AU-AIR Dataset API
 
 ## News
+**16.09.2020**
+- Researchers from Fraunhofer IOSB in Ettlingen have released a subset of the AU-AIR dataset, namely *AU-AIR-Track*. AU-AIR-Track contains:
+-- Two images sequences ranging from 887 frames and 512 frames, containing respectively 62 and 26 annotated objects.  
+-- Annotations for visual object tracking, with occlusion (also annotated).  
+-- Two 3D reconstructions for each image sequence, and pseudo depth maps associated with the camera poses.
+ [Paper](https://arxiv.org/abs/2008.02834),  [Dataset and Tools](https://drive.google.com/file/d/1tDk12BwDdrQp7eFcnONSpjkpvnrNxJx3/view?usp=sharing)
+
 **15.09.2020**
 - We have updated the annotation file to improve annotations. The new link can be found in "Download" section below.
 - We have also released a json file for [VGG Image Annotator](http://www.robots.ox.ac.uk/~vgg/software/via/) to edit annotations. Feel free to customize annotations for your research. You can download AU-AIR VIA annotations [here](https://drive.google.com/file/d/1OGAbPMddQKgZ99VzRO91__d9SfnkclHK/view?usp=sharing).
@@ -42,3 +49,5 @@ To install the package from source, simply clone or download the repository to y
 ## References
 
 [1] I. Bozcan and E. Kayacan, "AU-AIR: A Multi-modal Unmanned Aerial Vehicle Dataset for Low Altitude Traffic Surveillance", IEEE International Conference on Robotics and Automation (ICRA) 2020.
+
+[2] Vujasinović, Stéphane, et al. "Integration of 3D Knowledge for On-Board UAV Visual Tracking." _arXiv preprint arXiv:2008.02834_ (2020).
