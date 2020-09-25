@@ -3,9 +3,8 @@
 
 ## News
 **16.09.2020**
-- Researchers from Fraunhofer IOSB in Ettlingen have released a subset of the AU-AIR dataset, namely *AU-AIR-Track*. AU-AIR-Track contains:
-
--- Two images sequences ranging from 887 frames and 512 frames, containing respectively 62 and 26 annotated objects.  
+* Researchers from Fraunhofer IOSB in Ettlingen have released a subset of the AU-AIR dataset, namely *AU-AIR-Track*. AU-AIR-Track contains:
+-- Two images sequences ranging from 887 frames and 512 frames, containing respectively 63 and 27 annotated objects.  
 -- Annotations for visual object tracking, with occlusion (also annotated).  
 -- Two 3D reconstructions for each image sequence, and pseudo depth maps associated with the camera poses.
  [Paper](https://arxiv.org/abs/2008.02834),  [Dataset and Tools](https://drive.google.com/file/d/1tDk12BwDdrQp7eFcnONSpjkpvnrNxJx3/view?usp=sharing)
